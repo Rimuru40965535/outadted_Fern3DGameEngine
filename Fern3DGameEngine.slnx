@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Fern3DGameEngine/Fern3DGameEngine.vcxproj" Id="1ede3e35-6805-4be4-ba31-65faf82a03fc" />
+</Solution>
